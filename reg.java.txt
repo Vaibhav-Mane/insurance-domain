@@ -1,6 +1,8 @@
 public class regisrtation {
 
-
+public void username(){
+system.out.println ("enter your first name");
+}
 
 
 }
