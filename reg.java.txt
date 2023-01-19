@@ -1,7 +1,7 @@
 public class registration {
 
 public void username() {
-
+String s =new String;
 
 }
 
